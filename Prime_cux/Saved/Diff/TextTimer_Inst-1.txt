@@ -1,0 +1,21 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="Timer_Inst"
+   Begin Object Class=/Script/Engine.MaterialInstanceEditorOnlyData Name="Timer_InstEditorOnlyData"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="Timer_InstEditorOnlyData"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   ParameterStateId=68C392E94374344FF31510AE0565F28C
+   Parent="/Script/Engine.Material'/Game/Assest/DungeonResourcePack/Content/Materials/BossBar.BossBar'"
+   ScalarParameterValues(0)=(ParameterInfo=(Name="Timer_Value"),ParameterValue=1.680904,ExpressionGUID=0632F37248733913177018B3F7FD7F7A)
+   ScalarParameterValues(1)=(ParameterInfo=(Name="RefractionDepthBias"))
+   BasePropertyOverrides=(BlendMode=BLEND_Translucent,ShadingModel=MSM_Unlit,OpacityMaskClipValue=0.333300)
+   ReferencedTextureGuids(0)=2F047B38438498B11EE5E58BFE0E65A5
+   ReferencedTextureGuids(1)=14C458AC4AF8E488850EC1B2A810AF53
+   ReferencedTextureGuids(2)=E37EC3BA476ABDC215CE108EB703D83F
+   EditorOnlyData="/Script/Engine.MaterialInstanceEditorOnlyData'Timer_InstEditorOnlyData'"
+   ThumbnailInfo="/Script/UnrealEd.SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'"
+   LightingGuid=7147AE1143700E0AA8BEC98B9139BCE0
+End Object
