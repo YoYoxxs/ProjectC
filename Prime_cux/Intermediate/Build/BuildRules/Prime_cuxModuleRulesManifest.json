@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"D:\\Final_grad_prjkt\\ProjectC\\Prime_cux\\Intermediate\\Source\\Prime_cux.Build.cs",
+		"D:\\Final_grad_prjkt\\ProjectC\\Prime_cux\\Intermediate\\Source\\Prime_cux.Target.cs",
+		"D:\\Final_grad_prjkt\\ProjectC\\Prime_cux\\Intermediate\\Source\\Prime_cuxClient.Target.cs",
+		"D:\\Final_grad_prjkt\\ProjectC\\Prime_cux\\Intermediate\\Source\\Prime_cuxEditor.Target.cs",
+		"D:\\Final_grad_prjkt\\ProjectC\\Prime_cux\\Intermediate\\Source\\Prime_cuxServer.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
